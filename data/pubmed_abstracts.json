@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Dietary glycemic index and glycemic load in relation to HbA1c in adults with type 2 diabetes",
+    "abstract": "Background: The glycemic index (GI) and glycemic load (GL) are metrics that describe the quality and quantity of carbohydrates in foods. In type 2 diabetes management, controlling postprandial glucose excursions is essential. Several clinical trials have explored the impact of low-GI diets on glycemic control markers such as HbA1c. Methods: A systematic review and meta-analysis of randomized controlled trials comparing low-GI diets versus control diets in adults with type 2 diabetes was performed. Outcomes included change in HbA1c, fasting glucose, and insulin sensitivity. Results: Fourteen trials involving 1042 participants were included. Low-GI diets were associated with a significant reduction in HbA1c (mean difference: -0.43%, 95% CI: -0.72 to -0.13). Reductions were more pronounced in participants with baseline HbA1c above 8.0%. Conclusion: Dietary GI and GL interventions meaningfully improve glycemic control in type 2 diabetes and should be incorporated into nutritional counseling frameworks.",
+    "journal": "Diabetes Care",
+    "year": 2021,
+    "pubmed_id": "34101234",
+    "topic_tags": ["glycemic index", "type 2 diabetes", "HbA1c", "diet"]
+  },
+  {
+    "title": "Brown rice versus white rice: differential effects on postprandial glucose in diabetic patients",
+    "abstract": "Introduction: Rice is a staple food across many cultures. White rice, which has a high glycemic index (~72), has been associated with elevated postprandial glucose in people with type 2 diabetes. Brown rice retains its bran layer, providing additional fiber that slows carbohydrate absorption. Objective: To compare postprandial glucose responses to equivalent portions of brown rice versus white rice in adults with type 2 diabetes. Design: A randomized crossover trial with 48 participants. Continuous glucose monitors (CGMs) were used to measure the area under the glucose curve (AUC) over 2 hours after consuming 200g of either rice type. Results: Brown rice produced a mean 2-hour glucose AUC 18.4% lower than white rice (p<0.001). Peak glucose was also significantly lower (153 mg/dL vs 178 mg/dL). Fiber content of brown rice was the primary mediating factor. Conclusions: Substituting white rice with brown rice is an effective, practical dietary intervention for postprandial glucose management in type 2 diabetes.",
+    "journal": "Journal of Nutritional Science",
+    "year": 2022,
+    "pubmed_id": "35209876",
+    "topic_tags": ["brown rice", "white rice", "postprandial glucose", "type 2 diabetes", "glycemic index"]
+  }
+]

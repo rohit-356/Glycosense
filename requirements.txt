@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+pydantic
+openai
+httpx
+python-multipart
+chromadb
+langchain-text-splitters
+tiktoken
