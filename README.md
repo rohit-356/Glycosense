@@ -1,5 +1,12 @@
 # 🥗 GlycoSense
 
+
+> 🏆 Built during a hackathon using **Google Antigravity** for rapid AI-assisted prototyping.
+> I designed the feature set (meal scanning, glucose logging, RAG-based recommendations)
+> and system architecture; Antigravity + Gemini helped accelerate the build under time constraints.
+>
+> 
+
 **GlycoSense** is an AI-powered diabetes nutrition assistant that helps users scan meals, log blood glucose readings, and receive personalised dietary recommendations — all through a clean web interface backed by a robust Python API.
 
 ---
